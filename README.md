@@ -1,4 +1,5 @@
 # Catoff-Solana-Task
+
 ## Rust Smart Contract with Anchor Framework
 This repository contains my solution to the  Rust-based smart contract implemented using the Anchor framework. The smart contract includes functionality to mint a new SPL token and transfer it between two accounts on the Solana blockchain.
 
