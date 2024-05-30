@@ -15,7 +15,7 @@ Clone the repository:
  <div>cd to-the-repository </div>
 
 ## Build the smart contract:
-<div>Build the smart contract :
+<div> Build the smart contract :
   cargo build --release
 </div>
 
