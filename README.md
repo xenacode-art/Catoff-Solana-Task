@@ -23,9 +23,16 @@ Clone the repository:
 Deploy the smart contract to a local Solana testnet:
 anchor deploy
 
+
 ## Test the minting functionality:
 anchor test-mint
 
 ## Test the token transfer functionality:
 arduino
 anchor test-transfer
+
+# Troubleshooting
+If you encounter any issues during deployment or testing, refer to the Anchor documentation for troubleshooting tips and solutions,Thank you.
+
+# Contributors
+xinacod
