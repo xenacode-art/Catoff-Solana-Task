@@ -15,6 +15,17 @@ Clone the repository:
  <div>cd to-the-repository </div>
 
 ## Build the smart contract:
-<div>Build the smart contract:
+<div>Build the smart contract :
   cargo build --release
 </div>
+
+## Usage
+Deploy the smart contract to a local Solana testnet:
+anchor deploy
+
+## Test the minting functionality:
+anchor test-mint
+
+## Test the token transfer functionality:
+arduino
+anchor test-transfer
