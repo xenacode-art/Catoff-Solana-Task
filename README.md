@@ -35,4 +35,4 @@ anchor test-transfer
 If you encounter any issues during deployment or testing, refer to the Anchor documentation for troubleshooting tips and solutions,Thank you.
 
 # Contributors
-xinacod
+xenacode-art
